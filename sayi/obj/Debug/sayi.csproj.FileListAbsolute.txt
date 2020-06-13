@@ -1,0 +1,28 @@
+C:\Users\cagat\source\repos\sayi\sayi\bin\Debug\sayi.exe.config
+C:\Users\cagat\source\repos\sayi\sayi\bin\Debug\sayi.exe
+C:\Users\cagat\source\repos\sayi\sayi\bin\Debug\sayi.pdb
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.csprojAssemblyReference.cache
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.Form1.resources
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.Properties.Resources.resources
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.csproj.GenerateResource.cache
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.exe
+C:\Users\cagat\source\repos\sayi\sayi\obj\Debug\sayi.pdb
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\bin\Debug\sayi.exe.config
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\bin\Debug\sayi.exe
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\bin\Debug\sayi.pdb
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.csprojAssemblyReference.cache
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.Form1.resources
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.Properties.Resources.resources
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.csproj.GenerateResource.cache
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.csproj.CoreCompileInputs.cache
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.exe
+C:\Users\Toğultay Berk Saygın\Desktop\sayi\sayi\obj\Debug\sayi.pdb
+C:\Users\syste\Desktop\sayi\sayi\bin\Debug\sayi.exe.config
+C:\Users\syste\Desktop\sayi\sayi\bin\Debug\sayi.exe
+C:\Users\syste\Desktop\sayi\sayi\bin\Debug\sayi.pdb
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.csprojAssemblyReference.cache
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.Properties.Resources.resources
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.csproj.GenerateResource.cache
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.exe
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.pdb
+C:\Users\syste\Desktop\sayi\sayi\obj\Debug\sayi.formPermut.resources
